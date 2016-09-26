@@ -1,0 +1,145 @@
+body{
+width: 500px;
+}
+
+h2{
+text-align: center;
+}
+
+
+
+#computer {
+  width: 350px;
+  height: 200px;
+  background-color: #008080;
+  border-radius: 10px;
+  border: grey 10px solid;
+}
+
+#computer-text {
+  color: white;
+  padding-top: 50px;
+}
+
+#piggy {
+  width: 100px;
+  height: 70px;
+  border-radius: 50px;
+  background-color: black;
+}
+
+.pigtext {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+
+  }
+
+.legs {
+  background-color: black;
+  width:15px;
+  height: 10px;
+  position: relative;
+
+}
+
+.leg1{
+  right: 5px;
+  }
+
+.leg2 {
+  left: 10px
+}
+
+#arrowup {
+position: relative;
+width: 160px;
+height: 180px;
+background-color: white;
+}
+
+#triangle {
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 40px;
+  border-color: transparent transparent #37AACB transparent;
+  border-top-width: 0px;
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+
+#box {
+background-color: #37AACB;
+width: 50px;
+height: 40px;
+position: absolute;
+left: -24px;
+top: 40px;
+}
+
+#buildingtext{
+  padding-top: 10px;
+
+}
+
+#building1 {
+background: #5dade2;
+top: 590px;
+left: 30px;
+height: 50px;
+width: 30px;
+position: absolute;
+}
+
+#building2 {
+    background: #e74c3c;
+    top: 570px;
+    left: 90px;
+    height: 70px;
+    width: 30px;
+    position: absolute;
+}
+
+#sun {
+background: #f7dc6f;
+top: 525px;
+left: 50px;
+height: 11px;
+width: 8px;
+border-radius: 70px 70px 70px 70px;
+padding: 7px;
+
+}
+
+#blackcircle {
+background: black;
+top: 525px;
+left: 210px;
+height: 120px;
+width: 120px;
+border-radius: 70px 70px 70px 70px;
+padding: 10px;
+position: absolute;
+}
+
+#window1 {
+background: #f9e79f;
+top: 573px;
+left: 92px;
+height: 5px;
+width: 5px;
+padding: 2px;
+position: absolute;
+}
+
+#window2 {
+background: #f9e79f;
+top: 573px;
+left: 115px;
+height: 5px;
+width: 5px;
+position: absolute;
+padding: 2px:
+}
